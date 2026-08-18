@@ -14,7 +14,7 @@ export const PRODUCTS = [
   title: '15,000+ Viral Anime Reels Bundle',
   shortTitle: 'Anime Reels Mega Bundle',
   category: 'Anime',
-  price: 39,
+  price: ,
   oldPrice: 499,
   badge: 'BEST SELLER',
   emoji: '',
@@ -30,7 +30,7 @@ export const PRODUCTS = [
     'Lifetime Access'
   ],
 
-  paymentLink: 'https://rzp.io/rzp/abMKS3S',
+  paymentLink: 'https://rzp.io/rzp/B1Mo62T6',
 
   driveLink:
     'https://drive.google.com/drive/folders/1udN0sLdlc5mzY5_FnrlmXuiicTe6VuqQ?usp=drive_link',
