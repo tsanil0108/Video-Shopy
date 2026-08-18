@@ -14,7 +14,7 @@ export const PRODUCTS = [
   title: '15,000+ Viral Anime Reels Bundle',
   shortTitle: 'Anime Reels Mega Bundle',
   category: 'Anime',
-  price: ,
+  price: 1,
   oldPrice: 499,
   badge: 'BEST SELLER',
   emoji: '',
